@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: "Roboto", "Arial";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url(/public/icons/pexels-pixabay-209831.jpg);
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
